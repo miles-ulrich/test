@@ -1,0 +1,1 @@
+./filter data.txt | lp_solve | grep '1$'
